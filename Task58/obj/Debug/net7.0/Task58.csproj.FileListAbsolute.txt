@@ -1,0 +1,15 @@
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\obj\Debug\net7.0\Task58.csproj.AssemblyReference.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\obj\Debug\net7.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\obj\Debug\net7.0\Task58.AssemblyInfoInputs.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\obj\Debug\net7.0\Task58.AssemblyInfo.cs
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\obj\Debug\net7.0\Task58.csproj.CoreCompileInputs.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\bin\Debug\net7.0\Task58.exe
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\bin\Debug\net7.0\Task58.deps.json
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\bin\Debug\net7.0\Task58.runtimeconfig.json
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\bin\Debug\net7.0\Task58.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\bin\Debug\net7.0\Task58.pdb
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\obj\Debug\net7.0\Task58.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\obj\Debug\net7.0\refint\Task58.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\obj\Debug\net7.0\Task58.pdb
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\obj\Debug\net7.0\Task58.genruntimeconfig.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task58\obj\Debug\net7.0\ref\Task58.dll

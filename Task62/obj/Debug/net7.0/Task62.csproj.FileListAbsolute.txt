@@ -1,0 +1,15 @@
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\bin\Debug\net7.0\Task62.exe
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\bin\Debug\net7.0\Task62.deps.json
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\bin\Debug\net7.0\Task62.runtimeconfig.json
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\bin\Debug\net7.0\Task62.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\bin\Debug\net7.0\Task62.pdb
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\obj\Debug\net7.0\Task62.csproj.AssemblyReference.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\obj\Debug\net7.0\Task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\obj\Debug\net7.0\Task62.AssemblyInfoInputs.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\obj\Debug\net7.0\Task62.AssemblyInfo.cs
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\obj\Debug\net7.0\Task62.csproj.CoreCompileInputs.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\obj\Debug\net7.0\Task62.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\obj\Debug\net7.0\refint\Task62.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\obj\Debug\net7.0\Task62.pdb
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\obj\Debug\net7.0\Task62.genruntimeconfig.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar8\Task62\obj\Debug\net7.0\ref\Task62.dll
